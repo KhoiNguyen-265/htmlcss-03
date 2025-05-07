@@ -449,3 +449,43 @@ a {
     color: #fff;
     cursor: pointer;
 }
+
+/* Install app */
+.install {
+    margin-top: 180px;
+}
+
+.install__inner {
+    display: flex;
+    padding: 0 70px;
+    background: #2e80ce;
+    border-radius: 4px;
+}
+
+.install__img {
+    display: block;
+    margin-top: -95px;
+    width: 284px;
+    height: 522px;
+    object-fit: cover;
+}
+
+.install__content {
+    margin-left: 160px;
+}
+
+.install__heading {
+    margin-top: 76px;
+    color: #fff;
+}
+
+.install__desc {
+    margin-top: 18px;
+    color: #fff;
+}
+
+.install__row {
+    display: flex;
+    gap: 28px;
+    margin-top: 38px;
+}
